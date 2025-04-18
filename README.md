@@ -2,7 +2,7 @@
 
 ---
 
-## 📘 Descripción
+## 📂 Acerca del repositorio
 
 Este proyecto fue desarrollado como parte de un reto práctico en JavaScript.  
 El objetivo fue crear un sistema de registro básico, permitiendo la recolección de datos mediante formularios web.
